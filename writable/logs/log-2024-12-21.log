@@ -1,0 +1,4 @@
+CRITICAL - 2024-12-21 05:04:44 --> ErrorException: Cannot redeclare App\Controllers\Home::login()
+[Method: GET, Route: registration]
+in APPPATH\Controllers\Home.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
